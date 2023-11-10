@@ -44,6 +44,7 @@ If you would like to contribute to this project, please follow the guidelines in
 This project is licensed under the [MIT License](LICENSE).
 
 ---
+![Pixel Art Generator Screenshot](screenshot.jpg)
 
 **Author: Mandara Michel**  
 **Contact: Mandarahades@gmail.com**
